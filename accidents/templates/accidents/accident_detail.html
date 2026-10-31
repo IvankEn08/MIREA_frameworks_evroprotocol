@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}ДТП №{{ accident.id }} — Европротокол+{% endblock %}
+{% block content %}
+<a class="back-link" href="{% url 'accidents:list' %}">← Вернуться к журналу</a>
+<div class="detail-header mt-3 mb-4">
+  <div><span class="eyebrow">Карточка происшествия</span><h1>ДТП №{{ accident.id }}</h1><p class="lead mb-0">{{ accident.location }}</p></div>
+  {% include "accidents/includes/status.html" with status=accident.status %}
+</div>
+<div class="row g-4">
+  <div class="col-lg-5">
+    <section class="panel">
+      <h2 class="h4">Обстоятельства</h2>
+      <dl class="facts">
+        <div><dt>Дата и время</dt><dd>{{ accident.occurred_at|slice:":16" }}</dd></div>
+        <div><dt>Пострадавшие</dt><dd>{{ accident.has_injured|yesno:"Есть,Нет" }}</dd></div>
+        <div><dt>Возгорание</dt><dd>{{ accident.has_fire|yesno:"Есть,Нет" }}</dd></div>
+        <div><dt>Участников</dt><dd>{{ accident.participant_count }}</dd></div>
+      </dl>
+    </section>
+  </div>
+  <div class="col-lg-7">
+    <section class="panel mb-4"><h2 class="h4">Участники и транспорт</h2>
+      <div class="list-group list-group-flush">
+      {% for participant in accident.participants %}
+        <div class="list-group-item px-0"><strong>{{ participant.full_name }}</strong><br><span class="text-secondary">{{ participant.brand }} {{ participant.model }}, {{ participant.plate_number }} · {{ participant.phone }}</span></div>
+      {% empty %}<p class="text-secondary">Участники не зарегистрированы.</p>{% endfor %}
+      </div>
+    </section>
+    <section class="panel"><h2 class="h4">Оповещения служб</h2>
+      {% for message in accident.messages %}<p><strong>{{ message.service_name }}</strong> · {{ message.sent_at|slice:":16" }} · {{ message.status }}</p>
+      {% empty %}<p class="text-secondary mb-0">Экстренное оповещение не требовалось.</p>{% endfor %}
+    </section>
+  </div>
+</div>
+{% endblock %}
+

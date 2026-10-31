@@ -1,0 +1,7 @@
+[
+  {"id": 1, "location": "Москва, ул. Бауманская, д. 10", "occurred_at": "2026-10-20T09:15:00", "has_injured": 0, "has_fire": 0, "status": "closed"},
+  {"id": 2, "location": "Москва, проспект Вернадского, д. 78", "occurred_at": "2026-10-21T18:40:00", "has_injured": 1, "has_fire": 0, "status": "processing"},
+  {"id": 3, "location": "Москва, Ленинградское шоссе, д. 25", "occurred_at": "2026-10-22T07:25:00", "has_injured": 0, "has_fire": 1, "status": "new"},
+  {"id": 4, "location": "Москва, ул. Бауманская, д. 10", "occurred_at": "2026-10-23T12:05:00", "has_injured": 0, "has_fire": 0, "status": "processing"}
+]
+

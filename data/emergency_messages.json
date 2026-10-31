@@ -1,0 +1,7 @@
+[
+  {"id": 1, "accident_id": 2, "service_name": "Скорая помощь", "sent_at": "2026-10-21T18:42:00", "status": "delivered"},
+  {"id": 2, "accident_id": 2, "service_name": "ГИБДД", "sent_at": "2026-10-21T18:43:00", "status": "delivered"},
+  {"id": 3, "accident_id": 3, "service_name": "МЧС", "sent_at": "2026-10-22T07:27:00", "status": "delivered"},
+  {"id": 4, "accident_id": 3, "service_name": "ГИБДД", "sent_at": "2026-10-22T07:28:00", "status": "delivered"}
+]
+

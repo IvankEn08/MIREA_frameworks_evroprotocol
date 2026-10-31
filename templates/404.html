@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}Страница не найдена — Европротокол+{% endblock %}
+{% block content %}
+<section class="empty-state">
+  <span class="eyebrow">Ошибка 404</span>
+  <h1>Такой страницы нет</h1>
+  <p>Проверьте адрес или вернитесь к списку зарегистрированных ДТП.</p>
+  <a class="btn btn-primary" href="{% url 'accidents:list' %}">К списку ДТП</a>
+</section>
+{% endblock %}
+

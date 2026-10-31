@@ -1,0 +1,3712 @@
+{
+  "reference": "C:\\Users\\gladk\\Documents\\MIREA\\sem5\\frameworks\\Практическая работа 1 Гладких Иван ЭФБО-15-24.docx",
+  "sha256": "ee6106ec08b9f98c2c6d8516c12644c4a1dde487f948406ccfca4e8b800b562f",
+  "sections": [
+    {
+      "index": 0,
+      "start_type": "NEW_PAGE (2)",
+      "orientation": "PORTRAIT (0)",
+      "page_width": {
+        "emu": 7560310,
+        "cm": 21.001,
+        "pt": 595.3
+      },
+      "page_height": {
+        "emu": 10692130,
+        "cm": 29.7,
+        "pt": 841.9
+      },
+      "top_margin": {
+        "emu": 720090,
+        "cm": 2.0,
+        "pt": 56.7
+      },
+      "bottom_margin": {
+        "emu": 720090,
+        "cm": 2.0,
+        "pt": 56.7
+      },
+      "left_margin": {
+        "emu": 1080135,
+        "cm": 3.0,
+        "pt": 85.05
+      },
+      "right_margin": {
+        "emu": 539750,
+        "cm": 1.499,
+        "pt": 42.5
+      },
+      "header_distance": {
+        "emu": 449580,
+        "cm": 1.249,
+        "pt": 35.4
+      },
+      "footer_distance": {
+        "emu": 449580,
+        "cm": 1.249,
+        "pt": 35.4
+      },
+      "different_first_page_header_footer": false,
+      "header_paragraphs": [
+        {
+          "container": "section0.header",
+          "index": 0,
+          "style": "Normal",
+          "text": "",
+          "alignment": "None",
+          "left_indent": null,
+          "right_indent": null,
+          "first_line_indent": null,
+          "space_before": null,
+          "space_after": null,
+          "line_spacing": "None",
+          "keep_with_next": null,
+          "keep_together": null,
+          "page_break_before": null,
+          "runs": []
+        }
+      ],
+      "footer_paragraphs": [
+        {
+          "container": "section0.footer",
+          "index": 0,
+          "style": "Normal",
+          "text": "",
+          "alignment": "None",
+          "left_indent": null,
+          "right_indent": null,
+          "first_line_indent": null,
+          "space_before": null,
+          "space_after": null,
+          "line_spacing": "None",
+          "keep_with_next": null,
+          "keep_together": null,
+          "page_break_before": null,
+          "runs": []
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "container": "body",
+      "index": 0,
+      "style": "Normal",
+      "text": "",
+      "alignment": "CENTER (1)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "container": "body",
+      "index": 1,
+      "style": "Normal",
+      "text": "",
+      "alignment": "CENTER (1)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "container": "body",
+      "index": 2,
+      "style": "Normal",
+      "text": "",
+      "alignment": "CENTER (1)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "container": "body",
+      "index": 3,
+      "style": "Normal",
+      "text": "",
+      "alignment": "CENTER (1)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "container": "body",
+      "index": 4,
+      "style": "Normal",
+      "text": "",
+      "alignment": "None",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "container": "body",
+      "index": 5,
+      "style": "Normal",
+      "text": "",
+      "alignment": "None",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "container": "body",
+      "index": 6,
+      "style": "Normal",
+      "text": "Практическое занятие № 1",
+      "alignment": "CENTER (1)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Практическое занятие № ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "1",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 7,
+      "style": "Normal",
+      "text": "по дисциплине «Технологии разработки приложений на базе фреймворков»",
+      "alignment": "CENTER (1)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "по дисциплине «",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "Технологии разработки приложений на базе фреймворков",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "»",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 8,
+      "style": "Normal",
+      "text": "",
+      "alignment": "CENTER (1)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "container": "body",
+      "index": 9,
+      "style": "Normal",
+      "text": "Тема работы: Основы Python: актуализация знаний и н\t",
+      "alignment": "None",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Тема ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "работы",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": ":",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": " Основы ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "Python",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": ": актуализация знаний и н",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "\t",
+          "bold": true,
+          "italic": null,
+          "underline": true,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 10,
+      "style": "Normal",
+      "text": "",
+      "alignment": "None",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "container": "body",
+      "index": 11,
+      "style": "Normal",
+      "text": "",
+      "alignment": "None",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "container": "body",
+      "index": 12,
+      "style": "Normal",
+      "text": "",
+      "alignment": "CENTER (1)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.15",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "container": "body",
+      "index": 13,
+      "style": "Normal",
+      "text": "",
+      "alignment": "CENTER (1)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.15",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "container": "body",
+      "index": 14,
+      "style": "Normal",
+      "text": "",
+      "alignment": "CENTER (1)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.15",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "container": "body",
+      "index": 15,
+      "style": "Normal",
+      "text": "",
+      "alignment": "CENTER (1)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.15",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "container": "body",
+      "index": 16,
+      "style": "Normal",
+      "text": "",
+      "alignment": "CENTER (1)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.15",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "container": "body",
+      "index": 17,
+      "style": "Normal",
+      "text": "Москва",
+      "alignment": "CENTER (1)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.15",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Москва",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 18,
+      "style": "Normal",
+      "text": "2026",
+      "alignment": "CENTER (1)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.15",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "202",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "6",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 19,
+      "style": "Normal",
+      "text": "ВВЕДЕНИЕ",
+      "alignment": "CENTER (1)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": {
+        "emu": 450215,
+        "cm": 1.251,
+        "pt": 35.45
+      },
+      "space_before": null,
+      "space_after": {
+        "emu": 152400,
+        "cm": 0.423,
+        "pt": 12.0
+      },
+      "line_spacing": "2.0",
+      "keep_with_next": true,
+      "keep_together": true,
+      "page_break_before": true,
+      "runs": [
+        {
+          "text": "ВВЕДЕНИЕ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 18.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 20,
+      "style": "Normal",
+      "text": "Выполнение материалов Яндекс Практикума",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": {
+        "emu": 450215,
+        "cm": 1.251,
+        "pt": 35.45
+      },
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Выполнение материалов Яндекс Практикума",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": "000000",
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 21,
+      "style": "Normal",
+      "text": "В рамках выполнения практической работы 1 были выполнены задания по следующим темам:",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": {
+        "emu": 450215,
+        "cm": 1.251,
+        "pt": 35.45
+      },
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "В ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "рамках выполнения практической работы 1 были выполнены задания по следующим темам:",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 22,
+      "style": "List Paragraph",
+      "text": "Погружение в Python;",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Погружение в ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "Python",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": ";",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 23,
+      "style": "List Paragraph",
+      "text": "Простые типы данных;",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Простые типы данных;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 24,
+      "style": "List Paragraph",
+      "text": "Ветвления;",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Ветвления;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 25,
+      "style": "List Paragraph",
+      "text": "Импортируемые типы данных;",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Импортируемые типы данных;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 26,
+      "style": "List Paragraph",
+      "text": "Настройка рабочего окружения;",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Настройка рабочего окружения;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 27,
+      "style": "List Paragraph",
+      "text": "Pytest;",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Pytest",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": ";",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 28,
+      "style": "List Paragraph",
+      "text": "Система контроля и управления версиями;",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Система контроля и управления версиями;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 29,
+      "style": "List Paragraph",
+      "text": "Требования к коду;",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Требования к коду;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 30,
+      "style": "List Paragraph",
+      "text": "Отладка программ.",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Отладка программ.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 31,
+      "style": "Normal",
+      "text": "Выполнение данных работ подтверждается на Рисунках 1 и 2.",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": {
+        "emu": 449580,
+        "cm": 1.249,
+        "pt": 35.4
+      },
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Выполнение данных работ подтверждается на Рисунках 1 и 2.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 32,
+      "style": "Normal",
+      "text": "Рисунок 1 – Скриншот выполнения Спринта 1",
+      "alignment": "CENTER (1)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 76200,
+        "cm": 0.212,
+        "pt": 6.0
+      },
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "Рисунок ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": null,
+          "font_size_pt": 12.0,
+          "color": null,
+          "ascii_font": null,
+          "hansi_font": null
+        },
+        {
+          "text": "1",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": null,
+          "font_size_pt": 12.0,
+          "color": null,
+          "ascii_font": null,
+          "hansi_font": null
+        },
+        {
+          "text": " – ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": null,
+          "font_size_pt": 12.0,
+          "color": null,
+          "ascii_font": null,
+          "hansi_font": null
+        },
+        {
+          "text": "Скриншот выполнения Спринта 1",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": null,
+          "font_size_pt": 12.0,
+          "color": null,
+          "ascii_font": null,
+          "hansi_font": null
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 33,
+      "style": "Normal",
+      "text": "",
+      "alignment": "CENTER (1)",
+      "left_indent": {
+        "emu": 449580,
+        "cm": 1.249,
+        "pt": 35.4
+      },
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "container": "body",
+      "index": 34,
+      "style": "Normal",
+      "text": "",
+      "alignment": "CENTER (1)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 35,
+      "style": "Normal",
+      "text": "Рисунок 2 – Скриншот выполнения Спринта 2",
+      "alignment": "CENTER (1)",
+      "left_indent": {
+        "emu": 449580,
+        "cm": 1.249,
+        "pt": 35.4
+      },
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Рисунок ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": null,
+          "font_size_pt": 12.0,
+          "color": null,
+          "ascii_font": null,
+          "hansi_font": null
+        },
+        {
+          "text": "2",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": null,
+          "font_size_pt": 12.0,
+          "color": null,
+          "ascii_font": null,
+          "hansi_font": null
+        },
+        {
+          "text": " – ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": null,
+          "font_size_pt": 12.0,
+          "color": null,
+          "ascii_font": null,
+          "hansi_font": null
+        },
+        {
+          "text": "Скриншот выполнения Спринта ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": null,
+          "font_size_pt": 12.0,
+          "color": null,
+          "ascii_font": null,
+          "hansi_font": null
+        },
+        {
+          "text": "2",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": null,
+          "font_size_pt": 12.0,
+          "color": null,
+          "ascii_font": null,
+          "hansi_font": null
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 36,
+      "style": "Normal",
+      "text": "Индивидуальный проект",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": {
+        "emu": 450215,
+        "cm": 1.251,
+        "pt": 35.45
+      },
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Индивидуальный проект",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": "000000",
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 37,
+      "style": "Normal",
+      "text": "В рамках выполнения практической работы 1 для разработки индивидуального проекта была выбрана тема «Разработка программного продукта «Европротокол+» для автоматизации оформления ДТП и оповещения экстренных служб».",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": {
+        "emu": 450215,
+        "cm": 1.251,
+        "pt": 35.45
+      },
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "В ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "рамках выполнения практической работы 1 ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "для разработки индивидуального проекта была выбрана тема «",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "Разработка программного продукта «Европротокол+» для автоматизации оформления ДТП и оповещения экстренных служб».",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 38,
+      "style": "Normal",
+      "text": "Предметной областью проекта является автоматизация процессов оформления дорожно-транспортных происшествий, взаимодействия участников ДТП между собой и с экстренными службами, а также сбора, обработки и передачи информации о происшествии в электронном виде.",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": {
+        "emu": 450215,
+        "cm": 1.251,
+        "pt": 35.45
+      },
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Предметной областью проекта является автоматизация процессов оформления дорожно-транспортных происшествий, взаимодействия участников ДТП между собой и с экстренными службами, а также сбора, обработки и передачи информации о происшествии в электронном виде.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 39,
+      "style": "Normal",
+      "text": "В рамках ПР1 была реализована начальная версия программного продукта. Программа позволяет определить необходимость вызова экстренных служб, категорию дорожно-транспортного происшествия и сформировать информационное сообщение с основными сведениями о ДТП.",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": {
+        "emu": 450215,
+        "cm": 1.251,
+        "pt": 35.45
+      },
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "В рамках ПР1 была реализована начальная версия программного продукта. Программа позволяет определить необходимость вызова экстренных служб, категорию дорожно-транспортного происшествия и сформировать информационное сообщение с основными сведениями о ДТП.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 40,
+      "style": "Normal",
+      "text": "Ссылка на Git-репозиторий: https://github.com/IvankEn08/MIREA_frameworks_evroprotocol",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": {
+        "emu": 450215,
+        "cm": 1.251,
+        "pt": 35.45
+      },
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Ссылка на ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "Git",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "-",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "репозиторий: ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 41,
+      "style": "Normal",
+      "text": "Результат работы",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": {
+        "emu": 450215,
+        "cm": 1.251,
+        "pt": 35.45
+      },
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Результат работы",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": "000000",
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 42,
+      "style": "Normal",
+      "text": "В результате выполнения ПР1 было настроено рабочее окружение для разработки на Python, создан Git-репозиторий индивидуального проекта «Европротокол+» и подготовлен файл README.md с описанием назначения, предметной области, основных сущностей и функций проекта. Также был реализован начальный программный сценарий, включающий определение необходимости вызова экстренных служб, определение категории ДТП и формирование информационного сообщения о происшествии. Работа программы была проверена с использованием отладчика IDE.",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": {
+        "emu": 450215,
+        "cm": 1.251,
+        "pt": 35.45
+      },
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "В ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "р",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "езультате выполнения ПР1 было настроено рабочее окружение для разработки на ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "Python",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": ",",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": " создан ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "Git",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "-",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "репозиторий индивидуального проекта «Европротокол+» и подготовлен файл ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "README",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "md",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "с описанием назначения, предметной области, основных сущностей и функций проекта. Также был ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "реализован начальный программный сценарий, включающий определение необходимости вызова экстренных служб, определение категории ДТП и формирование информационного сообщения о происшествии. Работа программы была проверена с использованием отладчика ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "IDE.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 43,
+      "style": "Normal",
+      "text": "Вывод",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": {
+        "emu": 450215,
+        "cm": 1.251,
+        "pt": 35.45
+      },
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Вывод",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": "000000",
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    },
+    {
+      "container": "body",
+      "index": 44,
+      "style": "Normal",
+      "text": "В ходе выполнения практической работы были закреплены основы Python, изучены настройка рабочего окружения, работа с системой контроля версий, требования к коду и отладка программ. Также был создан и настроен репозиторий индивидуального проекта «Европротокол+», подготовлена документация и реализован начальный программный сценарий.",
+      "alignment": "JUSTIFY (3)",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": {
+        "emu": 450215,
+        "cm": 1.251,
+        "pt": 35.45
+      },
+      "space_before": null,
+      "space_after": {
+        "emu": 0,
+        "cm": 0.0,
+        "pt": 0.0
+      },
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "keep_together": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "В ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "ходе выполнения практической работы были закреплены основы ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": "Python",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": ",",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        },
+        {
+          "text": " изучены настройка рабочего окружения, работа с системой контроля версий, требования к коду и отладка программ. Также был создан и настроен репозиторий индивидуального проекта «Европротокол+», подготовлена документация и реализован начальный программный сценарий.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "color": null,
+          "ascii_font": "Times New Roman",
+          "hansi_font": "Times New Roman"
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "rows": 2,
+      "cols": 1,
+      "style": "Normal Table",
+      "content": [
+        [
+          [
+            {
+              "container": "table0",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": {
+                "emu": 38100,
+                "cm": 0.106,
+                "pt": 3.0
+              },
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "None",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": [
+                {
+                  "text": "",
+                  "bold": null,
+                  "italic": null,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": null,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                }
+              ]
+            },
+            {
+              "container": "table0",
+              "index": 1,
+              "style": "Normal",
+              "text": "МИНОБРНАУКИ РОССИИ",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": {
+                "emu": 38100,
+                "cm": 0.106,
+                "pt": 3.0
+              },
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "None",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": [
+                {
+                  "text": "МИНОБРНАУКИ РОССИИ",
+                  "bold": null,
+                  "italic": null,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": null,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                }
+              ]
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "container": "table0",
+              "index": 0,
+              "style": "Normal",
+              "text": "Федеральное государственное бюджетное образовательное учреждение\nвысшего образования\n«МИРЭА  Российский технологический университет»",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "0.9",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": [
+                {
+                  "text": "Федеральное государственное бюджетное образовательное учреждение",
+                  "bold": null,
+                  "italic": null,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 12.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                },
+                {
+                  "text": "\nвысшего образования",
+                  "bold": null,
+                  "italic": null,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 12.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                },
+                {
+                  "text": "\n",
+                  "bold": null,
+                  "italic": null,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 12.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                },
+                {
+                  "text": "«МИРЭА ",
+                  "bold": true,
+                  "italic": null,
+                  "underline": null,
+                  "font_name": "Times New Roman CYR",
+                  "font_size_pt": 12.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman CYR",
+                  "hansi_font": "Times New Roman CYR"
+                },
+                {
+                  "text": "",
+                  "bold": true,
+                  "italic": null,
+                  "underline": null,
+                  "font_name": "Symbol",
+                  "font_size_pt": 12.0,
+                  "color": null,
+                  "ascii_font": "Symbol",
+                  "hansi_font": "Symbol"
+                },
+                {
+                  "text": " Российский технологический университет»",
+                  "bold": true,
+                  "italic": null,
+                  "underline": null,
+                  "font_name": "Times New Roman CYR",
+                  "font_size_pt": 12.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman CYR",
+                  "hansi_font": "Times New Roman CYR"
+                }
+              ]
+            },
+            {
+              "container": "table0",
+              "index": 1,
+              "style": "Normal",
+              "text": " РТУ МИРЭА ",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "None",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": [
+                {
+                  "text": " РТУ МИРЭА ",
+                  "bold": true,
+                  "italic": null,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 16.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                },
+                {
+                  "text": "",
+                  "bold": true,
+                  "italic": null,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 16.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                }
+              ]
+            }
+          ]
+        ]
+      ]
+    },
+    {
+      "index": 1,
+      "rows": 7,
+      "cols": 7,
+      "style": "Normal Table",
+      "content": [
+        [
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "None",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "Выполнил:",
+              "alignment": "None",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": [
+                {
+                  "text": "Выполнил:",
+                  "bold": null,
+                  "italic": null,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 14.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "студент группы ЭФБО-15-24",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": [
+                {
+                  "text": "студент группы",
+                  "bold": null,
+                  "italic": null,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 14.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                },
+                {
+                  "text": " ЭФБО-15-24",
+                  "bold": null,
+                  "italic": null,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 14.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                }
+              ]
+            },
+            {
+              "container": "table1",
+              "index": 1,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "Гладких И.А.",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": [
+                {
+                  "text": "Гладких И.А.",
+                  "bold": null,
+                  "italic": null,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 14.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                }
+              ]
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "None",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "(группа)",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": [
+                {
+                  "text": "(группа)",
+                  "bold": null,
+                  "italic": true,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 9.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "(подпись)",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": [
+                {
+                  "text": "(подпись)",
+                  "bold": null,
+                  "italic": true,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 9.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "(Фамилия И.О.)",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": [
+                {
+                  "text": "(Фамилия И.О.)",
+                  "bold": null,
+                  "italic": true,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 9.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                }
+              ]
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "None",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "Принял:",
+              "alignment": "None",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": [
+                {
+                  "text": "Принял:",
+                  "bold": null,
+                  "italic": null,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 14.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "доц.",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": [
+                {
+                  "text": "доц.",
+                  "bold": null,
+                  "italic": null,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 14.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "Ящун Т.В.",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": [
+                {
+                  "text": "Ящун",
+                  "bold": null,
+                  "italic": null,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 14.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                },
+                {
+                  "text": " Т.В.",
+                  "bold": null,
+                  "italic": null,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 14.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                }
+              ]
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "None",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "(должность)",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": [
+                {
+                  "text": "(должность)",
+                  "bold": null,
+                  "italic": true,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 9.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "(подпись)",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": [
+                {
+                  "text": "(подпись)",
+                  "bold": null,
+                  "italic": true,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 9.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "(Фамилия И.О.)",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": [
+                {
+                  "text": "(Фамилия И.О.)",
+                  "bold": null,
+                  "italic": true,
+                  "underline": null,
+                  "font_name": "Times New Roman",
+                  "font_size_pt": 9.0,
+                  "color": null,
+                  "ascii_font": "Times New Roman",
+                  "hansi_font": "Times New Roman"
+                }
+              ]
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "None",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ],
+          [
+            {
+              "container": "table1",
+              "index": 0,
+              "style": "Normal",
+              "text": "",
+              "alignment": "CENTER (1)",
+              "left_indent": null,
+              "right_indent": null,
+              "first_line_indent": null,
+              "space_before": null,
+              "space_after": {
+                "emu": 0,
+                "cm": 0.0,
+                "pt": 0.0
+              },
+              "line_spacing": "1.15",
+              "keep_with_next": null,
+              "keep_together": null,
+              "page_break_before": null,
+              "runs": []
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "inline_shapes": [
+    {
+      "index": 0,
+      "width": {
+        "emu": 992038,
+        "cm": 2.756,
+        "pt": 78.113
+      },
+      "height": {
+        "emu": 1124059,
+        "cm": 3.122,
+        "pt": 88.509
+      },
+      "type": "WD_INLINE_SHAPE_TYPE.PICTURE"
+    },
+    {
+      "index": 1,
+      "width": {
+        "emu": 6028816,
+        "cm": 16.747,
+        "pt": 474.71
+      },
+      "height": {
+        "emu": 2489200,
+        "cm": 6.914,
+        "pt": 196.0
+      },
+      "type": "WD_INLINE_SHAPE_TYPE.PICTURE"
+    },
+    {
+      "index": 2,
+      "width": {
+        "emu": 6102133,
+        "cm": 16.95,
+        "pt": 480.483
+      },
+      "height": {
+        "emu": 2540000,
+        "cm": 7.056,
+        "pt": 200.0
+      },
+      "type": "WD_INLINE_SHAPE_TYPE.PICTURE"
+    }
+  ],
+  "styles": [
+    {
+      "name": "List Paragraph",
+      "type": "PARAGRAPH (1)",
+      "base_style": "Normal",
+      "font_name": null,
+      "font_size_pt": null,
+      "bold": null,
+      "italic": null,
+      "color": null,
+      "alignment": "None",
+      "left_indent": {
+        "emu": 457200,
+        "cm": 1.27,
+        "pt": 36.0
+      },
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": null,
+      "line_spacing": "None",
+      "keep_with_next": null
+    },
+    {
+      "name": "Normal",
+      "type": "PARAGRAPH (1)",
+      "base_style": null,
+      "font_name": null,
+      "font_size_pt": null,
+      "bold": null,
+      "italic": null,
+      "color": null,
+      "alignment": "None",
+      "left_indent": null,
+      "right_indent": null,
+      "first_line_indent": null,
+      "space_before": null,
+      "space_after": null,
+      "line_spacing": "None",
+      "keep_with_next": null
+    }
+  ],
+  "package_parts": [
+    {
+      "path": "[Content_Types].xml",
+      "size": 1678,
+      "sha256": "bb7456d8f111e6fbfebc2b13f7d945c14c24a2b7b1f10bf0c65687217dff1aa9"
+    },
+    {
+      "path": "_rels/.rels",
+      "size": 590,
+      "sha256": "e19238d7a71fa7a2490776252686f70e2de6238c87cd509b5e3a3cc07c2ea4df"
+    },
+    {
+      "path": "word/document.xml",
+      "size": 82464,
+      "sha256": "1a5b1034a576a6373c0ec9ddd7794af52bc9d087a0fd700c79a2554dd7f7803f"
+    },
+    {
+      "path": "word/_rels/document.xml.rels",
+      "size": 1690,
+      "sha256": "e6301ef9927acec6045d48c97b989752c0bd6c071c182d378bcf17d13af0921b"
+    },
+    {
+      "path": "word/media/image1.jpg",
+      "size": 30266,
+      "sha256": "a6672ffa935cff8d41b27cdf86c88a09b1d6dcdf8fab0cf417729c2bc0879d5f"
+    },
+    {
+      "path": "word/media/image2.png",
+      "size": 89398,
+      "sha256": "320bac723a653dff7ea8c86e8387e673d59fae0226470ac1f8128e9b5dd94f17"
+    },
+    {
+      "path": "word/media/image3.png",
+      "size": 93404,
+      "sha256": "0c4829e7088b61ef64612cb68c8442d0be51cd465e119079ddb505479003888c"
+    },
+    {
+      "path": "word/theme/theme1.xml",
+      "size": 8450,
+      "sha256": "7c995784840a97af03a77a8f022a644b047fe5aebe27e5f72f6c124fef2e6b4d"
+    },
+    {
+      "path": "word/settings.xml",
+      "size": 4211,
+      "sha256": "a1beb0d8914c4384c11deeff7ac0a678ff4e79a76ce122472179b07eb9a3220f"
+    },
+    {
+      "path": "customXml/item1.xml",
+      "size": 289,
+      "sha256": "f3b453b1755b133356885f27dfd8d96ac1d03abab49d28b11a2960c34226ed8a"
+    },
+    {
+      "path": "customXml/itemProps1.xml",
+      "size": 341,
+      "sha256": "4779df83eba59eeebc25f6b6be4d55d195773091643524c0c3c4303116a66b61"
+    },
+    {
+      "path": "word/numbering.xml",
+      "size": 7670,
+      "sha256": "8cd263cde4dd096305567ca3626493fc71f46e4a6511d145179a796bcca67f03"
+    },
+    {
+      "path": "word/styles.xml",
+      "size": 45271,
+      "sha256": "b1c05eb1b8b13c89ec66770b1dc192216de4db02c84d277e91633504e01e42eb"
+    },
+    {
+      "path": "word/webSettings.xml",
+      "size": 1886,
+      "sha256": "8f28acfd94479d977b6ff5c87f5628b97ba98d5484c3ad946c3d3f54258e1111"
+    },
+    {
+      "path": "word/fontTable.xml",
+      "size": 3204,
+      "sha256": "09ea00ff408c34df23f64bca6cdd23fc245e623c318671c2a0ddddd2ea7c72d6"
+    },
+    {
+      "path": "docProps/core.xml",
+      "size": 700,
+      "sha256": "74da31bca76e3c4d40eeee302a114e6cb85bce1390c0d94bfa0d50b100d57b55"
+    },
+    {
+      "path": "docProps/app.xml",
+      "size": 1002,
+      "sha256": "748682074f4fa6580ac6c578a2df4aa0f638a3c7d776d49d8cb8e439ca48abb2"
+    },
+    {
+      "path": "customXml/_rels/item1.xml.rels",
+      "size": 296,
+      "sha256": "80482f86e196171d66001e0e74d1900408a3aaf2463e54005d251b5f2db9a0b0"
+    }
+  ]
+}

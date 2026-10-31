@@ -1,0 +1,10 @@
+[
+  {"id": 1, "accident_id": 1, "vehicle_id": 1, "full_name": "Иван Петров", "phone": "+7 900 111-22-33"},
+  {"id": 2, "accident_id": 1, "vehicle_id": 2, "full_name": "Анна Соколова", "phone": "+7 900 222-33-44"},
+  {"id": 3, "accident_id": 2, "vehicle_id": 3, "full_name": "Павел Орлов", "phone": "+7 900 333-44-55"},
+  {"id": 4, "accident_id": 2, "vehicle_id": 4, "full_name": "Мария Волкова", "phone": "+7 900 444-55-66"},
+  {"id": 5, "accident_id": 3, "vehicle_id": 5, "full_name": "Олег Ким", "phone": "+7 900 555-66-77"},
+  {"id": 6, "accident_id": 4, "vehicle_id": 6, "full_name": "Елена Белова", "phone": "+7 900 666-77-88"},
+  {"id": 7, "accident_id": 4, "vehicle_id": 7, "full_name": "Никита Фомин", "phone": "+7 900 777-88-99"}
+]
+

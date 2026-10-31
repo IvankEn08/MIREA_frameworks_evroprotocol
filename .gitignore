@@ -1,6 +1,7 @@
 # Python cache
 __pycache__/
 *.py[cod]
+.pytest_cache/
 
 # Virtual environments
 .venv/
@@ -20,3 +21,7 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Generated report previews
+reports/rendered/
+reports/qa2/

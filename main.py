@@ -1,76 +1,51 @@
-from datetime import datetime
+from pathlib import Path
+
+from services import create_accident_message, find_accident
+from storage import load_accidents
 
 
-def is_emergency_required(has_injured, has_fire):
-    """Определяет необходимость вызова экстренных служб."""
-    if has_injured or has_fire:
-        return True
-    return False
+DATA_FILE = Path(__file__).parent / "data" / "console_accidents.json"
 
 
-def get_accident_category(has_injured, has_fire, cars_count):
-    """Определяет категорию ДТП."""
-    if has_injured or has_fire:
-        return "ДТП повышенной опасности"
-
-    if cars_count > 2:
-        return "ДТП с несколькими транспортными средствами"
-
-    return "ДТП без пострадавших"
+def show_accidents() -> None:
+    accidents = load_accidents(DATA_FILE)
+    if not accidents:
+        print("Зарегистрированных происшествий нет.")
+        return
+    for accident in accidents:
+        print(accident)
 
 
-def create_accident_message(
-    location,
-    cars_count,
-    has_injured,
-    emergency_required,
-):
-    """Формирует информационное сообщение о ДТП."""
-    accident_time = datetime.now()
-
-    if has_injured:
-        injured_status = "есть пострадавшие"
-    else:
-        injured_status = "пострадавших нет"
-
-    if emergency_required:
-        emergency_status = "требуется оповещение экстренных служб"
-    else:
-        emergency_status = "вызов экстренных служб не требуется"
-
-    return (
-        f"ДТП зарегистрировано: {accident_time:%d.%m.%Y %H:%M}\n"
-        f"Место: {location}\n"
-        f"Количество автомобилей: {cars_count}\n"
-        f"Статус: {injured_status}\n"
-        f"Экстренные службы: {emergency_status}"
-    )
+def show_accident_details() -> None:
+    accidents = load_accidents(DATA_FILE)
+    try:
+        accident_id = int(input("Номер ДТП: "))
+    except ValueError:
+        print("Номер должен быть целым числом.")
+        return
+    accident = find_accident(accidents, accident_id)
+    if accident is None:
+        print("ДТП с таким номером не найдено.")
+        return
+    print(create_accident_message(accident))
 
 
-location = "Москва, ул. Бауманская, д. 10"
-cars_count = 2
-has_injured = False
-has_fire = False
+def main() -> None:
+    actions = {"1": show_accidents, "2": show_accident_details}
+    while True:
+        print("\nЕвропротокол+")
+        print("1. Показать ДТП")
+        print("2. Показать карточку ДТП")
+        print("0. Выход")
+        choice = input("Выберите действие: ").strip()
+        if choice == "0":
+            break
+        action = actions.get(choice)
+        if action is None:
+            print("Неизвестная команда.")
+            continue
+        action()
 
-emergency_required = is_emergency_required(
-    has_injured,
-    has_fire,
-)
 
-accident_category = get_accident_category(
-    has_injured,
-    has_fire,
-    cars_count,
-)
-
-message = create_accident_message(
-    location,
-    cars_count,
-    has_injured,
-    emergency_required,
-)
-
-print("Европротокол+")
-print()
-print(f"Категория происшествия: {accident_category}")
-print(message)
+if __name__ == "__main__":
+    main()

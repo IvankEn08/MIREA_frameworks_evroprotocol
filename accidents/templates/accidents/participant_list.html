@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block title %}Участники — Европротокол+{% endblock %}
+{% block content %}
+<span class="eyebrow">SQL JOIN</span><h1>Участники и транспорт</h1><p class="lead">Данные объединены из таблиц участников, автомобилей и происшествий.</p>
+<div class="table-responsive panel mt-4"><table class="table align-middle mb-0"><thead><tr><th>Участник</th><th>Автомобиль</th><th>ДТП</th></tr></thead><tbody>
+{% for participant in participants %}<tr><td><strong>{{ participant.full_name }}</strong><br><small>{{ participant.phone }}</small></td><td>{{ participant.brand }} {{ participant.model }}<br><small>{{ participant.plate_number }}</small></td><td><a href="{% url 'accidents:detail' participant.accident_id %}">№{{ participant.accident_id }}</a><br><small>{{ participant.location }}</small></td></tr>{% empty %}<tr><td colspan="3">Записей нет.</td></tr>{% endfor %}
+</tbody></table></div>
+{% endblock %}
+

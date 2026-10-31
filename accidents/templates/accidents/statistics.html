@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}Статистика — Европротокол+{% endblock %}
+{% block content %}
+<span class="eyebrow">SQL COUNT и GROUP BY</span><h1>Статистика происшествий</h1>
+<div class="row g-4 mt-2">
+  <div class="col-lg-6"><section class="panel h-100"><h2 class="h4">По категориям</h2>{% for row in by_category %}<div class="stat-row"><span>{{ row.category }}</span><strong>{{ row.accident_count }}</strong></div>{% empty %}<p>Данных нет.</p>{% endfor %}</section></div>
+  <div class="col-lg-6"><section class="panel h-100"><h2 class="h4">По адресам</h2>{% for row in by_location %}<div class="stat-row"><span>{{ row.location }}</span><strong>{{ row.accident_count }}</strong></div>{% empty %}<p>Данных нет.</p>{% endfor %}</section></div>
+</div>
+{% endblock %}
+

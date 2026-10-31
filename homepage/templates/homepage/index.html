@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}Главная — Европротокол+{% endblock %}
+{% block content %}
+<section class="hero p-4 p-md-5 mb-5">
+  <span class="eyebrow">Цифровое оформление ДТП</span>
+  <h1 class="display-5 fw-bold mt-2">Данные о происшествии — в одном месте</h1>
+  <p class="lead col-lg-8">Сервис регистрирует обстоятельства ДТП, связывает участников и транспорт, а при повышенной опасности фиксирует сообщения экстренным службам.</p>
+  <a class="btn btn-light btn-lg" href="{% url 'accidents:list' %}">Открыть журнал ДТП</a>
+</section>
+
+<section class="row g-3 mb-5">
+  <div class="col-md-4"><div class="metric"><strong>{{ statistics.total|default:0 }}</strong><span>происшествий</span></div></div>
+  <div class="col-md-4"><div class="metric"><strong>{{ statistics.emergencies|default:0 }}</strong><span>экстренных случаев</span></div></div>
+  <div class="col-md-4"><div class="metric"><strong>{{ statistics.closed|default:0 }}</strong><span>закрыто</span></div></div>
+</section>
+
+<section>
+  <div class="section-heading"><div><span class="eyebrow">Последние записи</span><h2>Недавние происшествия</h2></div><a href="{% url 'accidents:list' %}">Весь журнал →</a></div>
+  <div class="row g-3">
+    {% for accident in recent_accidents %}
+      <div class="col-md-4">{% include "accidents/includes/accident_card.html" with accident=accident %}</div>
+    {% empty %}<p>В базе пока нет записей.</p>{% endfor %}
+  </div>
+</section>
+{% endblock %}
+

@@ -1,0 +1,14 @@
+[
+  {
+    "accident_id": 1,
+    "location": "Москва, ул. Бауманская, д. 10",
+    "occurred_at": "2026-10-20T09:15:00",
+    "has_injured": false,
+    "has_fire": false,
+    "status": "closed",
+    "participants": [
+      {"participant_id": 1, "full_name": "Иван Петров", "phone": "+7 900 111-22-33", "vehicle": {"vehicle_id": 1, "plate_number": "А123ВС77", "brand": "Lada", "model": "Vesta"}},
+      {"participant_id": 2, "full_name": "Анна Соколова", "phone": "+7 900 222-33-44", "vehicle": {"vehicle_id": 2, "plate_number": "К456МН77", "brand": "Kia", "model": "Rio"}}
+    ]
+  }
+]

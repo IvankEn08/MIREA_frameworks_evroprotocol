@@ -1,0 +1,8 @@
+{% if status == "closed" %}
+  <span class="badge rounded-pill text-bg-success">Закрыто</span>
+{% elif status == "processing" %}
+  <span class="badge rounded-pill text-bg-warning">В работе</span>
+{% else %}
+  <span class="badge rounded-pill text-bg-danger">Новое</span>
+{% endif %}
+

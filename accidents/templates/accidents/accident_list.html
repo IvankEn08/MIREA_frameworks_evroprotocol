@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}Журнал ДТП — Европротокол+{% endblock %}
+{% block content %}
+<div class="section-heading"><div><span class="eyebrow">База данных</span><h1>Журнал происшествий</h1></div><a class="btn btn-outline-primary" href="{% url 'accidents:search' %}">Фильтровать</a></div>
+<div class="row g-3">
+  {% for accident in accidents %}
+    <div class="col-md-6 col-lg-4">{% include "accidents/includes/accident_card.html" with accident=accident %}</div>
+  {% empty %}<div class="empty-state"><h2>Записей нет</h2><p>Импортируйте данные из JSON.</p></div>{% endfor %}
+</div>
+{% endblock %}
+

@@ -1,0 +1,12 @@
+<article class="card h-100 border-0 shadow-sm">
+  <div class="card-body">
+    <div class="d-flex justify-content-between align-items-start gap-2">
+      <span class="badge text-bg-light">ДТП №{{ accident.id }}</span>
+      {% include "accidents/includes/status.html" with status=accident.status %}
+    </div>
+    <h3 class="h5 mt-3">{{ accident.location }}</h3>
+    <p class="text-secondary mb-3">{{ accident.occurred_at|slice:":16" }}</p>
+    <a class="stretched-link" href="{% url 'accidents:detail' accident.id %}">Открыть карточку</a>
+  </div>
+</article>
+

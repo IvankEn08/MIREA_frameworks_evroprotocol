@@ -1,0 +1,10 @@
+[
+  {"id": 1, "plate_number": "А123ВС77", "brand": "Lada", "model": "Vesta"},
+  {"id": 2, "plate_number": "К456МН77", "brand": "Kia", "model": "Rio"},
+  {"id": 3, "plate_number": "Т789ОР77", "brand": "Hyundai", "model": "Solaris"},
+  {"id": 4, "plate_number": "Е321КХ77", "brand": "Skoda", "model": "Rapid"},
+  {"id": 5, "plate_number": "М654АА77", "brand": "Renault", "model": "Duster"},
+  {"id": 6, "plate_number": "В777ВВ77", "brand": "Toyota", "model": "Camry"},
+  {"id": 7, "plate_number": "С001СС77", "brand": "Geely", "model": "Coolray"}
+]
+

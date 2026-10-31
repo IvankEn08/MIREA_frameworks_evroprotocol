@@ -1,0 +1,12 @@
+<nav class="navbar navbar-expand-lg navbar-dark shadow-sm">
+  <div class="container">
+    <a class="navbar-brand fw-semibold" href="{% url 'homepage:index' %}">Европротокол+</a>
+    <div class="navbar-nav flex-row gap-2 gap-md-3">
+      <a class="nav-link" href="{% url 'accidents:list' %}">ДТП</a>
+      <a class="nav-link" href="{% url 'accidents:participants' %}">Участники</a>
+      <a class="nav-link" href="{% url 'accidents:search' %}">Поиск</a>
+      <a class="nav-link" href="{% url 'accidents:statistics' %}">Статистика</a>
+    </div>
+  </div>
+</nav>
+

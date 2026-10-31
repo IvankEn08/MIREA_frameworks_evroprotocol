@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}Поиск ДТП — Европротокол+{% endblock %}
+{% block content %}
+<span class="eyebrow">SQL WHERE</span><h1>Поиск по признаку</h1>
+<form class="panel my-4" method="get">
+  <label class="form-label fw-semibold" for="severity">Категория происшествия</label>
+  <div class="d-flex gap-2 flex-wrap">
+    <select class="form-select search-select" id="severity" name="severity">
+      <option value="">Выберите категорию</option>
+      <option value="emergency" {% if severity == "emergency" %}selected{% endif %}>Повышенная опасность</option>
+      <option value="regular" {% if severity == "regular" %}selected{% endif %}>Без пострадавших</option>
+      <option value="injured" {% if severity == "injured" %}selected{% endif %}>Есть пострадавшие</option>
+      <option value="fire" {% if severity == "fire" %}selected{% endif %}>Есть возгорание</option>
+    </select>
+    <button class="btn btn-primary" type="submit">Найти</button>
+  </div>
+</form>
+{% if severity %}
+  <h2 class="h4 mb-3">Результаты</h2>
+  <div class="row g-3">{% for accident in accidents %}<div class="col-md-6">{% include "accidents/includes/accident_card.html" with accident=accident %}</div>{% empty %}<p>По выбранному условию записей нет.</p>{% endfor %}</div>
+{% endif %}
+{% endblock %}
+
