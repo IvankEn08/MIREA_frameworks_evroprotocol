@@ -6,12 +6,19 @@
   <div><span class="eyebrow">Карточка происшествия</span><h1>ДТП №{{ accident.id }}</h1><p class="lead mb-0">{{ accident.location }}</p></div>
   {% include "accidents/includes/status.html" with status=accident.status %}
 </div>
+<div class="d-flex gap-2 flex-wrap mb-4">
+  <a class="btn btn-outline-primary" href="{% url 'accidents:edit' accident.id %}">Изменить сведения</a>
+  <a class="btn btn-outline-primary" href="{% url 'accidents:participant_add' accident.id %}">Добавить участника</a>
+  <a class="btn btn-outline-primary" href="{% url 'accidents:photo_add' accident.id %}">Добавить фотографию</a>
+  {% if accident.status != "cancelled" %}<form method="post" action="{% url 'accidents:cancel' accident.id %}" onsubmit="return confirm('Отменить регистрацию ДТП №{{ accident.id }}? Запись останется в журнале.');">{% csrf_token %}<button class="btn btn-outline-danger" type="submit">Отменить регистрацию</button></form>{% endif %}
+</div>
 <div class="row g-4">
   <div class="col-lg-5">
     <section class="panel">
       <h2 class="h4">Обстоятельства</h2>
       <dl class="facts">
-        <div><dt>Дата и время</dt><dd>{{ accident.occurred_at|slice:":16" }}</dd></div>
+        <div><dt>Дата и время</dt><dd>{{ accident.occurred_at|date:"d.m.Y H:i" }}</dd></div>
+        <div><dt>Категория</dt><dd>{{ accident.category }}</dd></div>
         <div><dt>Пострадавшие</dt><dd>{{ accident.has_injured|yesno:"Есть,Нет" }}</dd></div>
         <div><dt>Возгорание</dt><dd>{{ accident.has_fire|yesno:"Есть,Нет" }}</dd></div>
         <div><dt>Участников</dt><dd>{{ accident.participant_count }}</dd></div>
@@ -21,16 +28,20 @@
   <div class="col-lg-7">
     <section class="panel mb-4"><h2 class="h4">Участники и транспорт</h2>
       <div class="list-group list-group-flush">
-      {% for participant in accident.participants %}
-        <div class="list-group-item px-0"><strong>{{ participant.full_name }}</strong><br><span class="text-secondary">{{ participant.brand }} {{ participant.model }}, {{ participant.plate_number }} · {{ participant.phone }}</span></div>
+      {% for participant in accident.participants.all %}
+        <div class="list-group-item px-0"><strong>{{ participant.full_name }}</strong><br><span class="text-secondary">{{ participant.vehicle.brand }} {{ participant.vehicle.model }}, {{ participant.vehicle.plate_number }} · {{ participant.phone }}</span></div>
       {% empty %}<p class="text-secondary">Участники не зарегистрированы.</p>{% endfor %}
       </div>
     </section>
-    <section class="panel"><h2 class="h4">Оповещения служб</h2>
-      {% for message in accident.messages %}<p><strong>{{ message.service_name }}</strong> · {{ message.sent_at|slice:":16" }} · {{ message.status }}</p>
+    <section class="panel mb-4"><h2 class="h4">Оповещения служб</h2>
+      {% for message in accident.messages.all %}<p><strong>{{ message.service_name }}</strong> · {{ message.sent_at|date:"d.m.Y H:i" }} · {{ message.get_status_display|default:message.status }}</p>
       {% empty %}<p class="text-secondary mb-0">Экстренное оповещение не требовалось.</p>{% endfor %}
     </section>
   </div>
 </div>
+{% if accident.photos.all %}
+  <section class="panel mt-4"><h2 class="h4">Фотоматериалы</h2><div class="row g-3">
+  {% for photo in accident.photos.all %}<div class="col-sm-6 col-lg-4"><figure class="photo-card mb-0"><a href="{{ photo.image.url }}"><img class="img-fluid rounded" src="{{ photo.image.url }}" alt="{{ photo.caption|default:'Фотография места ДТП' }}"></a>{% if photo.caption %}<figcaption class="small text-secondary mt-2">{{ photo.caption }}</figcaption>{% endif %}</figure></div>{% endfor %}
+  </div></section>
+{% endif %}
 {% endblock %}
-

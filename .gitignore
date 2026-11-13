@@ -25,3 +25,6 @@ Thumbs.db
 # Generated report previews
 reports/rendered/
 reports/qa2/
+
+# User-uploaded media
+media/

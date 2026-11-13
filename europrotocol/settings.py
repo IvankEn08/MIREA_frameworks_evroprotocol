@@ -1,10 +1,11 @@
 from pathlib import Path
+import os
 
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = "django-insecure-educational-europrotocol-plus"
-DEBUG = False
+SECRET_KEY = os.environ.get("DJANGO_SECRET_KEY", "development-only-europrotocol-key")
+DEBUG = os.environ.get("DJANGO_DEBUG", "false").lower() == "true"
 ALLOWED_HOSTS = ["127.0.0.1", "localhost", "testserver"]
 
 INSTALLED_APPS = [
@@ -50,7 +51,9 @@ WSGI_APPLICATION = "europrotocol.wsgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.sqlite3",
-        "NAME": BASE_DIR / "data" / "europrotocol.sqlite",
+        "NAME": os.environ.get(
+            "EUROPROTOCOL_DB_PATH", BASE_DIR / "data" / "europrotocol.sqlite"
+        ),
     }
 }
 
@@ -61,4 +64,6 @@ USE_TZ = True
 
 STATIC_URL = "static/"
 STATICFILES_DIRS = [BASE_DIR / "static"]
+MEDIA_URL = "/media/"
+MEDIA_ROOT = BASE_DIR / "media"
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"

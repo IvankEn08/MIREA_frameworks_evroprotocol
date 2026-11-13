@@ -1,8 +1,12 @@
 {% if status == "closed" %}
   <span class="badge rounded-pill text-bg-success">Закрыто</span>
+{% elif status == "cancelled" %}
+  <span class="badge rounded-pill text-bg-secondary">Отменено</span>
+{% elif status == "new" %}
+  <span class="badge rounded-pill text-bg-danger">Новое</span>
 {% elif status == "processing" %}
   <span class="badge rounded-pill text-bg-warning">В работе</span>
 {% else %}
-  <span class="badge rounded-pill text-bg-danger">Новое</span>
+  <span class="badge rounded-pill text-bg-light">{{ status }}</span>
 {% endif %}
 

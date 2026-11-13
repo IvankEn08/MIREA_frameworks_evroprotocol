@@ -1,23 +1,13 @@
 {% extends "base.html" %}
 {% block title %}Поиск ДТП — Европротокол+{% endblock %}
 {% block content %}
-<span class="eyebrow">SQL WHERE</span><h1>Поиск по признаку</h1>
-<form class="panel my-4" method="get">
-  <label class="form-label fw-semibold" for="severity">Категория происшествия</label>
-  <div class="d-flex gap-2 flex-wrap">
-    <select class="form-select search-select" id="severity" name="severity">
-      <option value="">Выберите категорию</option>
-      <option value="emergency" {% if severity == "emergency" %}selected{% endif %}>Повышенная опасность</option>
-      <option value="regular" {% if severity == "regular" %}selected{% endif %}>Без пострадавших</option>
-      <option value="injured" {% if severity == "injured" %}selected{% endif %}>Есть пострадавшие</option>
-      <option value="fire" {% if severity == "fire" %}selected{% endif %}>Есть возгорание</option>
-    </select>
-    <button class="btn btn-primary" type="submit">Найти</button>
-  </div>
+<span class="eyebrow">Фильтрация журнала</span><h1>Поиск происшествий</h1>
+<form class="panel form-panel my-4" method="get">
+  {% for field in filter_form %}<div class="mb-3"><label class="form-label" for="{{ field.id_for_label }}">{{ field.label }}</label>{{ field }}{% for error in field.errors %}<div class="invalid-feedback d-block">{{ error }}</div>{% endfor %}</div>{% endfor %}
+  <div class="d-flex gap-2"><button class="btn btn-primary" type="submit">Найти</button><a class="btn btn-outline-secondary" href="{% url 'accidents:search' %}">Сбросить</a></div>
 </form>
-{% if severity %}
+{% if searched %}
   <h2 class="h4 mb-3">Результаты</h2>
-  <div class="row g-3">{% for accident in accidents %}<div class="col-md-6">{% include "accidents/includes/accident_card.html" with accident=accident %}</div>{% empty %}<p>По выбранному условию записей нет.</p>{% endfor %}</div>
+  <div class="row g-3">{% for accident in accidents %}<div class="col-md-6">{% include "accidents/includes/accident_card.html" with accident=accident %}</div>{% empty %}<p>По выбранным условиям происшествий не найдено.</p>{% endfor %}</div>
 {% endif %}
 {% endblock %}
-

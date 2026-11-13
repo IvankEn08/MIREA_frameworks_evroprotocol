@@ -1,10 +1,12 @@
 {% extends "base.html" %}
 {% block title %}Статистика — Европротокол+{% endblock %}
 {% block content %}
-<span class="eyebrow">SQL COUNT и GROUP BY</span><h1>Статистика происшествий</h1>
+<span class="eyebrow">Сводные показатели</span><h1>Статистика происшествий</h1>
+<section class="row g-3 mt-2 mb-4"><div class="col-md-4"><div class="metric"><strong>{{ totals.total }}</strong><span>всего ДТП</span></div></div><div class="col-md-4"><div class="metric"><strong>{{ totals.emergencies }}</strong><span>повышенной опасности</span></div></div><div class="col-md-4"><div class="metric"><strong>{{ totals.closed }}</strong><span>закрыто</span></div></div></section>
 <div class="row g-4 mt-2">
   <div class="col-lg-6"><section class="panel h-100"><h2 class="h4">По категориям</h2>{% for row in by_category %}<div class="stat-row"><span>{{ row.category }}</span><strong>{{ row.accident_count }}</strong></div>{% empty %}<p>Данных нет.</p>{% endfor %}</section></div>
   <div class="col-lg-6"><section class="panel h-100"><h2 class="h4">По адресам</h2>{% for row in by_location %}<div class="stat-row"><span>{{ row.location }}</span><strong>{{ row.accident_count }}</strong></div>{% empty %}<p>Данных нет.</p>{% endfor %}</section></div>
 </div>
+<section class="panel mt-4"><h2 class="h4">Оповещения по службам</h2>{% for row in messages_by_service %}<div class="stat-row"><span>{{ row.service_name }}</span><strong>{{ row.message_count }}</strong></div>{% empty %}<p class="mb-0">Оповещений пока нет.</p>{% endfor %}</section>
 {% endblock %}
 

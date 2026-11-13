@@ -14,5 +14,7 @@ body { color: var(--ink); background: var(--surface); font-family: Inter, "Segoe
 .facts div:last-child, .stat-row:last-child { border-bottom: 0; }
 .facts dt { color: var(--muted); font-weight: 500; }.facts dd { margin: 0; font-weight: 700; text-align: right; }
 .empty-state { padding: 4rem 1rem; text-align: center; }.back-link { color: var(--muted); text-decoration: none; }.search-select { max-width: 25rem; }
+.form-panel { max-width: 54rem; }.form-panel .form-check { padding: .5rem 0 .5rem 1.9rem; }.form-panel .form-check-input { margin-top: .35rem; }
+.photo-card img { width: 100%; max-height: 22rem; object-fit: cover; }.message-stack { max-width: 60rem; margin: 0 auto 1rem; }
 @media (max-width: 700px) { .section-heading, .detail-header { align-items: flex-start; flex-direction: column; } .navbar-nav { font-size: .84rem; } }
 
