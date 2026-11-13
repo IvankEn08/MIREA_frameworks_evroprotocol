@@ -33,6 +33,11 @@ class AccidentFilterForm(forms.Form):
         choices=[("", "Любое состояние"), *Accident.STATUS_CHOICES],
         widget=forms.Select(attrs={"class": "form-select"}),
     )
+    hide_cancelled = forms.BooleanField(
+        label="Не показывать отменённые записи",
+        required=False,
+        widget=forms.CheckboxInput(attrs={"class": "form-check-input"}),
+    )
 
     def clean_location(self):
         return self.cleaned_data["location"].strip()

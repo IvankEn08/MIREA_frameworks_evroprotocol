@@ -32,6 +32,7 @@ def accident_list(request):
         severity = filter_form.cleaned_data["severity"]
         location = filter_form.cleaned_data["location"]
         status = filter_form.cleaned_data["status"]
+        hide_cancelled = filter_form.cleaned_data["hide_cancelled"]
         if severity == "emergency":
             accidents = accidents.filter(Q(has_injured=True) | Q(has_fire=True))
         elif severity == "regular":
@@ -44,6 +45,8 @@ def accident_list(request):
             accidents = accidents.filter(location__icontains=location)
         if status:
             accidents = accidents.filter(status=status)
+        if hide_cancelled:
+            accidents = accidents.exclude(status=Accident.STATUS_CANCELLED)
     page_obj = Paginator(accidents.order_by("-occurred_at", "-id"), 9).get_page(
         request.GET.get("page")
     )
@@ -90,6 +93,7 @@ def accident_search(request):
         severity = filter_form.cleaned_data["severity"]
         location = filter_form.cleaned_data["location"]
         status = filter_form.cleaned_data["status"]
+        hide_cancelled = filter_form.cleaned_data["hide_cancelled"]
         accidents = Accident.objects.all()
         if severity == "emergency":
             accidents = accidents.filter(Q(has_injured=True) | Q(has_fire=True))
@@ -103,6 +107,8 @@ def accident_search(request):
             accidents = accidents.filter(location__icontains=location)
         if status:
             accidents = accidents.filter(status=status)
+        if hide_cancelled:
+            accidents = accidents.exclude(status=Accident.STATUS_CANCELLED)
         accidents = accidents.order_by("-occurred_at", "-id")
     return render(
         request,

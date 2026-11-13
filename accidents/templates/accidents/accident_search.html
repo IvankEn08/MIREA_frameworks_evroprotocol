@@ -3,7 +3,7 @@
 {% block content %}
 <span class="eyebrow">Фильтрация журнала</span><h1>Поиск происшествий</h1>
 <form class="panel form-panel my-4" method="get">
-  {% for field in filter_form %}<div class="mb-3"><label class="form-label" for="{{ field.id_for_label }}">{{ field.label }}</label>{{ field }}{% for error in field.errors %}<div class="invalid-feedback d-block">{{ error }}</div>{% endfor %}</div>{% endfor %}
+  {% for field in filter_form %}<div class="mb-3{% if field.field.widget.input_type == 'checkbox' %} form-check{% endif %}">{% if field.field.widget.input_type == 'checkbox' %}{{ field }}<label class="form-check-label" for="{{ field.id_for_label }}">{{ field.label }}</label>{% else %}<label class="form-label" for="{{ field.id_for_label }}">{{ field.label }}</label>{{ field }}{% endif %}{% for error in field.errors %}<div class="invalid-feedback d-block">{{ error }}</div>{% endfor %}</div>{% endfor %}
   <div class="d-flex gap-2"><button class="btn btn-primary" type="submit">Найти</button><a class="btn btn-outline-secondary" href="{% url 'accidents:search' %}">Сбросить</a></div>
 </form>
 {% if searched %}

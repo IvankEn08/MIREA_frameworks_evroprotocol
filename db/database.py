@@ -1,9 +1,14 @@
+import os
 import sqlite3
 from pathlib import Path
 
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-DB_PATH = BASE_DIR / "data" / "europrotocol.sqlite"
+DB_PATH = Path(
+    os.environ.get(
+        "EUROPROTOCOL_DB_PATH", BASE_DIR / "data" / "europrotocol.sqlite"
+    )
+)
 
 
 def get_connection() -> sqlite3.Connection:
